@@ -1,0 +1,20 @@
+.Amogh{
+    background-color: lightsalmon;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.tit{
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.Vishruth{
+    background-color: lightpink;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.titVi{
+    margin-left: 40px;
+    margin-top: 150px;
+}
